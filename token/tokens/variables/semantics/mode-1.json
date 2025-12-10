@@ -359,7 +359,7 @@
           "description": "Modal enter/exit, page transitions"
         },
         "duration-deliberate": {
-          "value": "{primitives.motion.duration.duration-500}",
+          "value": "{primitives.motion.duration.duration-100}",
           "type": "float",
           "description": "Complex choreography, onboarding"
         },
