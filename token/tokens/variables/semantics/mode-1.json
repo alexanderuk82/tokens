@@ -353,7 +353,7 @@
           "type": "float",
           "description": "Expandable content, tooltips, focus"
         },
-        "duration-slowing": {
+        "duration-slow": {
           "value": "{primitives.motion.duration.duration-300}",
           "type": "float",
           "description": "Modal enter/exit, page transitions"
@@ -527,7 +527,7 @@
         },
         "complex": {
           "duration": {
-            "value": "{semantics.motion.duration.duration-slowing}",
+            "value": "{semantics.motion.duration.duration-slow}",
             "type": "float",
             "description": "Small border-radius changes, minor shape tweaks"
           },
