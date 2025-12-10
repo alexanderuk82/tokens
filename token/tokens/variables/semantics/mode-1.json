@@ -1,0 +1,566 @@
+{
+  "semantics": {
+    "spacing": {
+      "padding": {
+        "padding-half": {
+          "value": "{primitives.sizing.size-half}",
+          "type": "float"
+        },
+        "padding-0": {
+          "value": "{primitives.sizing.size-0}",
+          "type": "float"
+        },
+        "padding-1": {
+          "value": "{primitives.sizing.size-1}",
+          "type": "float"
+        },
+        "padding-2": {
+          "value": "{primitives.sizing.size-2}",
+          "type": "float"
+        },
+        "padding-3": {
+          "value": "{primitives.sizing.size-3}",
+          "type": "float"
+        },
+        "padding-4": {
+          "value": "{primitives.sizing.size-4}",
+          "type": "float"
+        },
+        "padding-5": {
+          "value": "{primitives.sizing.size-5}",
+          "type": "float"
+        },
+        "padding-6": {
+          "value": "{primitives.sizing.size-6}",
+          "type": "float"
+        },
+        "padding-7": {
+          "value": "{primitives.sizing.size-7}",
+          "type": "float"
+        },
+        "padding-8": {
+          "value": "{primitives.sizing.size-8}",
+          "type": "float"
+        },
+        "padding-9": {
+          "value": "{primitives.sizing.size-9}",
+          "type": "float"
+        },
+        "padding-none": {
+          "value": "{primitives.sizing.size-none}",
+          "type": "float"
+        }
+      },
+      "margin": {
+        "margin-half": {
+          "value": "{primitives.sizing.size-half}",
+          "type": "float"
+        },
+        "margin-0": {
+          "value": "{primitives.sizing.size-0}",
+          "type": "float"
+        },
+        "margin-1": {
+          "value": "{primitives.sizing.size-1}",
+          "type": "float"
+        },
+        "margin-2": {
+          "value": "{primitives.sizing.size-2}",
+          "type": "float"
+        },
+        "margin-3": {
+          "value": "{primitives.sizing.size-3}",
+          "type": "float"
+        },
+        "margin-4": {
+          "value": "{primitives.sizing.size-4}",
+          "type": "float"
+        },
+        "margin-5": {
+          "value": "{primitives.sizing.size-5}",
+          "type": "float"
+        },
+        "margin-6": {
+          "value": "{primitives.sizing.size-6}",
+          "type": "float"
+        },
+        "margin-7": {
+          "value": "{primitives.sizing.size-7}",
+          "type": "float"
+        },
+        "margin-8": {
+          "value": "{primitives.sizing.size-8}",
+          "type": "float"
+        },
+        "margin-9": {
+          "value": "{primitives.sizing.size-9}",
+          "type": "float"
+        },
+        "margin-none": {
+          "value": "{primitives.sizing.size-none}",
+          "type": "float"
+        }
+      },
+      "gap": {
+        "gap-half": {
+          "value": "{primitives.sizing.size-half}",
+          "type": "float"
+        },
+        "gap-0": {
+          "value": "{primitives.sizing.size-0}",
+          "type": "float"
+        },
+        "gap-1": {
+          "value": "{primitives.sizing.size-1}",
+          "type": "float"
+        },
+        "gap-2": {
+          "value": "{primitives.sizing.size-2}",
+          "type": "float"
+        },
+        "gap-3": {
+          "value": "{primitives.sizing.size-3}",
+          "type": "float"
+        },
+        "gap-4": {
+          "value": "{primitives.sizing.size-4}",
+          "type": "float"
+        },
+        "gap-5": {
+          "value": "{primitives.sizing.size-5}",
+          "type": "float"
+        },
+        "gap-6": {
+          "value": "{primitives.sizing.size-6}",
+          "type": "float"
+        },
+        "gap-7": {
+          "value": "{primitives.sizing.size-7}",
+          "type": "float"
+        },
+        "gap-8": {
+          "value": "{primitives.sizing.size-8}",
+          "type": "float"
+        },
+        "gap-9": {
+          "value": "{primitives.sizing.size-9}",
+          "type": "float"
+        },
+        "gap-none": {
+          "value": "{primitives.sizing.size-none}",
+          "type": "float"
+        }
+      }
+    },
+    "sizing": {
+      "icon": {
+        "size-0": {
+          "value": "{primitives.sizing.size-0}",
+          "type": "float"
+        },
+        "size-1": {
+          "value": "{primitives.sizing.size-1}",
+          "type": "float"
+        },
+        "size-2": {
+          "value": "{primitives.sizing.size-2}",
+          "type": "float"
+        },
+        "size-3": {
+          "value": "{primitives.sizing.size-3}",
+          "type": "float"
+        },
+        "size-4": {
+          "value": "{primitives.sizing.size-4}",
+          "type": "float"
+        },
+        "size-5": {
+          "value": "{primitives.sizing.size-5}",
+          "type": "float"
+        },
+        "size-6": {
+          "value": "{primitives.sizing.size-6}",
+          "type": "float"
+        }
+      }
+    },
+    "opacity": {
+      "opacity-0": {
+        "value": "{primitives.opacity.opacity-0}",
+        "type": "float"
+      },
+      "opacity-1": {
+        "value": "{primitives.opacity.opacity-1}",
+        "type": "float"
+      },
+      "opacity-2": {
+        "value": "{primitives.opacity.opacity-2}",
+        "type": "float"
+      },
+      "opacity-3": {
+        "value": "{primitives.opacity.opacity-3}",
+        "type": "float"
+      },
+      "opacity-4": {
+        "value": "{primitives.opacity.opacity-4}",
+        "type": "float"
+      },
+      "opacity-5": {
+        "value": "{primitives.opacity.opacity-5}",
+        "type": "float"
+      },
+      "opacity-6": {
+        "value": "{primitives.opacity.opacity-6}",
+        "type": "float"
+      },
+      "opacity-7": {
+        "value": "{primitives.opacity.opacity-7}",
+        "type": "float"
+      },
+      "opacity-8": {
+        "value": "{primitives.opacity.opacity-8}",
+        "type": "float"
+      },
+      "opacity-9": {
+        "value": "{primitives.opacity.opacity-9}",
+        "type": "float"
+      },
+      "opacity-10": {
+        "value": "{primitives.opacity.opacity-10}",
+        "type": "float"
+      },
+      "opacity-11": {
+        "value": "{primitives.opacity.opacity-11}",
+        "type": "float"
+      }
+    },
+    "breakpoint": {
+      "mobile-portrait": {
+        "value": "{primitives.breakpoint.mobile.portrait}",
+        "type": "float"
+      },
+      "mobile-landscape": {
+        "value": "{primitives.breakpoint.mobile.landscape}",
+        "type": "float"
+      },
+      "tablet-portrait": {
+        "value": "{primitives.breakpoint.tablet.portrait}",
+        "type": "float"
+      },
+      "tablet-landscape": {
+        "value": "{primitives.breakpoint.tablet.landscape}",
+        "type": "float"
+      },
+      "desktop": {
+        "value": "{primitives.breakpoint.desktop.desktop}",
+        "type": "float"
+      },
+      "desktop-lg": {
+        "value": "{primitives.breakpoint.desktop.desktop-lg}",
+        "type": "float"
+      }
+    },
+    "border-radius": {
+      "border-radius-half": {
+        "value": "{primitives.sizing.size-half}",
+        "type": "float"
+      },
+      "border-radius-0": {
+        "value": "{primitives.sizing.size-0}",
+        "type": "float"
+      },
+      "border-radius-1": {
+        "value": "{primitives.sizing.size-1}",
+        "type": "float"
+      },
+      "border-radius-2": {
+        "value": "{primitives.sizing.size-2}",
+        "type": "float"
+      },
+      "border-radius-3": {
+        "value": "{primitives.sizing.size-3}",
+        "type": "float"
+      },
+      "border-radius-4": {
+        "value": "{primitives.sizing.size-4}",
+        "type": "float"
+      },
+      "border-radius-5": {
+        "value": "{primitives.sizing.size-5}",
+        "type": "float"
+      },
+      "border-radius-6": {
+        "value": "{primitives.sizing.size-6}",
+        "type": "float"
+      },
+      "border-radius-7": {
+        "value": "{primitives.sizing.size-7}",
+        "type": "float"
+      },
+      "border-radius-8": {
+        "value": "{primitives.sizing.size-8}",
+        "type": "float"
+      },
+      "border-radius-9": {
+        "value": "{primitives.sizing.size-9}",
+        "type": "float"
+      },
+      "border-radius-10": {
+        "value": "{primitives.sizing.size-10}",
+        "type": "float"
+      },
+      "border-radius-11": {
+        "value": "{primitives.sizing.size-11}",
+        "type": "float"
+      }
+    },
+    "border-width": {
+      "border-width-0": {
+        "value": "{primitives.border-width.border-width-0}",
+        "type": "float"
+      },
+      "border-width-1": {
+        "value": "{primitives.border-width.border-width-1}",
+        "type": "float"
+      },
+      "border-width-2": {
+        "value": "{primitives.border-width.border-width-2}",
+        "type": "float"
+      },
+      "border-width-3": {
+        "value": "{primitives.border-width.border-width-3}",
+        "type": "float"
+      },
+      "border-width-4": {
+        "value": "{primitives.border-width.border-width-4}",
+        "type": "float"
+      }
+    },
+    "motion": {
+      "duration": {
+        "duration-instant": {
+          "value": "{primitives.motion.duration.duration-50}",
+          "type": "float",
+          "description": "Ripples, highlights, micro-feedback"
+        },
+        "duration-quick": {
+          "value": "{primitives.motion.duration.duration-100}",
+          "type": "float",
+          "description": "Button press, toggle switches"
+        },
+        "duration-moderate": {
+          "value": "{primitives.motion.duration.duration-200}",
+          "type": "float",
+          "description": "Expandable content, tooltips, focus"
+        },
+        "duration-slow": {
+          "value": "{primitives.motion.duration.duration-300}",
+          "type": "float",
+          "description": "Modal enter/exit, page transitions"
+        },
+        "duration-deliberate": {
+          "value": "{primitives.motion.duration.duration-500}",
+          "type": "float",
+          "description": "Complex choreography, onboarding"
+        },
+        "duration-extended": {
+          "value": "{primitives.motion.duration.duration-400}",
+          "type": "float",
+          "description": "Full screen modals, bottom sheets"
+        }
+      },
+      "easing": {
+        "easing-productive": {
+          "value": "0.2, 0, 0.38, 0.9",
+          "type": "string",
+          "description": "Functional UI feedback"
+        },
+        "easing-expressive": {
+          "value": "0.4, 0.14, 0.3, 1",
+          "type": "string",
+          "description": "Entrances, brand moments"
+        },
+        "easing-enter": {
+          "value": "0, 0, 0.38, 0.9",
+          "type": "string",
+          "description": "Elements entering screen"
+        },
+        "easing-exit": {
+          "value": "0.4, 0.14, 1, 1",
+          "type": "string",
+          "description": "Elements leaving screen"
+        },
+        "easing-emphasized": {
+          "value": "0.05, 0.7, 0.1, 1",
+          "type": "string",
+          "description": "Prominent transitions"
+        },
+        "ease-loop": {
+          "value": "0.42, 0, 0.58, 1",
+          "type": "string",
+          "description": "Animaciones cíclicas (skeleton, spinners)"
+        }
+      },
+      "transition": {
+        "colour": {
+          "duration": {
+            "background-color": {
+              "value": "{semantics.motion.duration.duration-quick}",
+              "type": "float",
+              "description": "Buttons, cards, inputs"
+            },
+            "border-color": {
+              "value": "{semantics.motion.duration.duration-moderate}",
+              "type": "float",
+              "description": "Focus states, validation"
+            },
+            "box-shadow": {
+              "value": "{semantics.motion.duration.duration-quick}",
+              "type": "float",
+              "description": "Focus rings, elevation"
+            },
+            "fill": {
+              "value": "{semantics.motion.duration.duration-quick}",
+              "type": "float",
+              "description": "Icon state changes"
+            }
+          },
+          "easing": {
+            "background-color": {
+              "value": "0.2, 0, 0.38, 0.9",
+              "type": "string",
+              "description": "Buttons, cards, inputs"
+            },
+            "border-color": {
+              "value": "0.4, 0.14, 0.3, 1",
+              "type": "string",
+              "description": "Focus states, validation"
+            },
+            "box-shadow": {
+              "value": "0.2, 0, 0.38, 0.9",
+              "type": "string",
+              "description": "Focus rings, elevation"
+            },
+            "fill": {
+              "value": "0.2, 0, 0.38, 0.9",
+              "type": "string",
+              "description": "Icon state changes"
+            }
+          }
+        },
+        "opacity": {
+          "fade in": {
+            "easing": {
+              "value": "0, 0, 0.38, 0.9",
+              "type": "string",
+              "description": "Elements appearing"
+            },
+            "duration": {
+              "value": "{semantics.motion.duration.duration-moderate}",
+              "type": "float",
+              "description": "Elements appearing"
+            }
+          },
+          "fade out": {
+            "easing": {
+              "value": "0.4, 0.14, 1, 1",
+              "type": "string",
+              "description": "Elements disappearing"
+            },
+            "duration": {
+              "value": "{semantics.motion.duration.duration-moderate}",
+              "type": "float",
+              "description": "Elements disappearing"
+            }
+          }
+        },
+        "page": {
+          "page-transition-xs": {
+            "value": "{primitives.motion.duration.duration-100}",
+            "type": "float",
+            "description": "Tab switches, filters"
+          },
+          "page-transition-s": {
+            "value": "{primitives.motion.duration.duration-200}",
+            "type": "float",
+            "description": "Sibling navigation"
+          },
+          "page-transition-m": {
+            "value": "{primitives.motion.duration.duration-300}",
+            "type": "float",
+            "description": "Standard page push"
+          },
+          "page-transition-l": {
+            "value": "{primitives.motion.duration.duration-400}",
+            "type": "float",
+            "description": "Standard page push"
+          },
+          "page-transition-xl": {
+            "value": "{primitives.motion.duration.duration-500}",
+            "type": "float",
+            "description": "Standard page push"
+          }
+        }
+      },
+      "morph": {
+        "subtle": {
+          "duration": {
+            "value": "{semantics.motion.duration.duration-quick}",
+            "type": "float",
+            "description": "Small border-radius changes, minor shape tweaks"
+          },
+          "easing": {
+            "value": "0.2, 0, 0.38, 0.9",
+            "type": "string"
+          }
+        },
+        "moderate": {
+          "duration": {
+            "value": "{semantics.motion.duration.duration-moderate}",
+            "type": "float",
+            "description": "Small border-radius changes, minor shape tweaks"
+          },
+          "easing": {
+            "value": "0.4, 0.14, 0.3, 1",
+            "type": "string"
+          }
+        },
+        "complex": {
+          "duration": {
+            "value": "{semantics.motion.duration.duration-slow}",
+            "type": "float",
+            "description": "Small border-radius changes, minor shape tweaks"
+          },
+          "easing": {
+            "value": "0.4, 0.14, 0.3, 1",
+            "type": "string"
+          }
+        }
+      },
+      "elevation": {
+        "lift": {
+          "duration": {
+            "value": "{semantics.motion.duration.duration-quick}",
+            "type": "float",
+            "description": "Resting state, flat"
+          },
+          "easing": {
+            "value": "0.2, 0, 0.38, 0.9",
+            "type": "string"
+          }
+        },
+        "settle": {
+          "duration": {
+            "value": "{semantics.motion.duration.duration-moderate}",
+            "type": "float",
+            "description": "Resting state, flat"
+          },
+          "easing": {
+            "value": "0.4, 0.14, 0.3, 1",
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}
