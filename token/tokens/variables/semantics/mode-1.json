@@ -616,6 +616,188 @@
                   }
                 }
               }
+            },
+            "fade": {
+              "duration": {
+                "value": "{semantics.motion.duration.duration-quick}",
+                "type": "float"
+              },
+              "easing": {
+                "value": "0.2, 0, 0.38, 0.9",
+                "type": "string"
+              },
+              "outgoing": {
+                "opacity": {
+                  "from": {
+                    "value": "{semantics.opacity.opacity-11}",
+                    "type": "float"
+                  },
+                  "to": {
+                    "value": "{semantics.opacity.opacity-0}",
+                    "type": "float"
+                  }
+                },
+                "transform": {
+                  "translateX": {
+                    "from": {
+                      "value": 0,
+                      "type": "float"
+                    },
+                    "to": {
+                      "value": 100,
+                      "type": "float"
+                    }
+                  }
+                },
+                "scale": {
+                  "from": {
+                    "value": "{primitives.motion.scale.none}",
+                    "type": "float"
+                  },
+                  "to": {
+                    "value": "{semantics.motion.scale.shrink-medium}",
+                    "type": "float"
+                  }
+                }
+              },
+              "incoming": {
+                "opacity": {
+                  "from": {
+                    "value": "{semantics.opacity.opacity-0}",
+                    "type": "float"
+                  },
+                  "to": {
+                    "value": "{semantics.opacity.opacity-11}",
+                    "type": "float"
+                  }
+                },
+                "scale": {
+                  "from": {
+                    "value": "{semantics.motion.scale.grow-medium}",
+                    "type": "float"
+                  },
+                  "to": {
+                    "value": "{semantics.motion.scale.none}",
+                    "type": "float"
+                  }
+                }
+              }
+            },
+            "shared-x": {
+              "duration": {
+                "value": "{semantics.motion.duration.duration-slow}",
+                "type": "float"
+              },
+              "easing": {
+                "value": "0.4, 0.14, 0.3, 1",
+                "type": "string"
+              },
+              "outgoing": {
+                "opacity": {
+                  "from": {
+                    "value": "{semantics.opacity.opacity-11}",
+                    "type": "float"
+                  },
+                  "to": {
+                    "value": "{semantics.opacity.opacity-0}",
+                    "type": "float"
+                  }
+                },
+                "transform": {
+                  "translateX": {
+                    "from": {
+                      "value": 0,
+                      "type": "float"
+                    },
+                    "to": {
+                      "value": -100,
+                      "type": "float"
+                    }
+                  }
+                }
+              },
+              "incoming": {
+                "opacity": {
+                  "from": {
+                    "value": "{semantics.opacity.opacity-0}",
+                    "type": "float"
+                  },
+                  "to": {
+                    "value": "{semantics.opacity.opacity-11}",
+                    "type": "float"
+                  }
+                },
+                "transform": {
+                  "translateX": {
+                    "from": {
+                      "value": 100,
+                      "type": "float"
+                    },
+                    "to": {
+                      "value": 0,
+                      "type": "float"
+                    }
+                  }
+                }
+              }
+            },
+            "shared-y": {
+              "duration": {
+                "value": "{semantics.motion.duration.duration-slow}",
+                "type": "float"
+              },
+              "easing": {
+                "value": "0.4, 0.14, 0.3, 1",
+                "type": "string"
+              },
+              "outgoing": {
+                "opacity": {
+                  "from": {
+                    "value": "{semantics.opacity.opacity-11}",
+                    "type": "float"
+                  },
+                  "to": {
+                    "value": "{semantics.opacity.opacity-0}",
+                    "type": "float"
+                  }
+                },
+                "transform": {
+                  "translateY": {
+                    "from": {
+                      "value": 0,
+                      "type": "float"
+                    },
+                    "to": {
+                      "value": -30,
+                      "type": "float"
+                    }
+                  }
+                }
+              },
+              "incoming": {
+                "opacity": {
+                  "from": {
+                    "value": "{semantics.opacity.opacity-0}",
+                    "type": "float"
+                  },
+                  "to": {
+                    "value": "{semantics.opacity.opacity-11}",
+                    "type": "float"
+                  }
+                },
+                "transform": {
+                  "translateY": {
+                    "from": {
+                      "value": 100,
+                      "type": "float"
+                    },
+                    "to": {
+                      "value": 0,
+                      "type": "float"
+                    }
+                  }
+                }
+              }
             }
           }
         }
